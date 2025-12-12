@@ -1,0 +1,4 @@
+name = "Sagnik"
+DOB = "December 12, 2006"
+relation to me = "Brother"
+gender = "male"
